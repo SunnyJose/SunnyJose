@@ -1,5 +1,13 @@
-## Hi there 👋
+# Hello, My name is Sunny Omotoye
+<a href="https://www.linkedin.com/in/sunny-omotoye-01965818a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+Experienced and detailed-oriented cybersecurity professional with a Master's degree in Cybersecurity; a problem-solving enthusiast, data analytic, network security, Linux, automating tasks with Python, Microsoft 365 Defender, and Azure AI.
+
+## Motivation
+
+My passion for technology, combined with a desire to contribute to a safer digital environment, and the ever-evolving nature of cybersecurity, motivates me to pursue a career in this field. I am particularly interested in cybersecurity positions.
+
+## Skills
 <!--
 **SunnyJose/SunnyJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
