@@ -8,6 +8,15 @@ Experienced and detailed-oriented cybersecurity professional with a Master's deg
 My passion for technology, combined with a desire to contribute to a safer digital environment, and the ever-evolving nature of cybersecurity, motivates me to pursue a career in this field. I am particularly interested in cybersecurity positions.
 
 ## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">D</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">D</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 <!--
 **SunnyJose/SunnyJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
