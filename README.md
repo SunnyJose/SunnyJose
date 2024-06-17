@@ -11,7 +11,7 @@ My passion for technology, combined with a desire to contribute to a safer digit
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">D</a>|
+| Network Security and Vulnerability Analysis   | <a href="https://github.com/SunnyJose/Network-Security-Test/tree/main">Network Security Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">D</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -54,7 +54,7 @@ My passion for technology, combined with a desire to contribute to a safer digit
 </div>
 
 ## Projects
-- D
+- <a href="https://github.com/SunnyJose/Network-Security-Test/tree/main">Network Security Lab</a>
 - S
 
 <!--
