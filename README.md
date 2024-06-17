@@ -25,6 +25,7 @@ My passion for technology, combined with a desire to contribute to a safer digit
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-NMAP-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali%20Linux-268BEE?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white" />
 </div> 
 
 ##  Vulnerability
