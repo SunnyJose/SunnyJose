@@ -12,11 +12,10 @@ My passion for technology, combined with a desire to contribute to a safer digit
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Security and Vulnerability Analysis   | <a href="https://github.com/SunnyJose/Network-Security-Test/tree/main">Network Security Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">D</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Malware Analysis|Malware Lab|
+| Web Application Firewall         | Firewall Lab|
+| Data Security     | Data Security Lab|
+
 
 ## Tools
 
@@ -55,7 +54,7 @@ My passion for technology, combined with a desire to contribute to a safer digit
 
 ## Projects
 - <a href="https://github.com/SunnyJose/Network-Security-Test/tree/main">Network Security Lab</a>
-- S
+- Web Application Firewall
 
 <!--
 **SunnyJose/SunnyJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
