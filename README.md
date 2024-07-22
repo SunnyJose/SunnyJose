@@ -43,7 +43,7 @@ My passion for technology, combined with a desire to contribute to a safer digit
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft%20365%20Defender-0078D4?style=for-the-badge&logo=microsoftdefender&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft%20365%20E5-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
 ## Certifications
