@@ -12,7 +12,7 @@ My passion for technology, combined with a desire to contribute to a safer digit
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Security and Vulnerability Analysis   | <a href="https://github.com/SunnyJose/Network-Security-Test/tree/main">Network Security Lab</a>|
-| Malware Analysis|Malware Lab|
+| Microsoft Defender for Endpoint|<a href="https://github.com/SunnyJose/Deployment-of-Microsoft-Defender-for-Endpoint-Lab/tree/main">Microsoft Defender Endpoint Lab</a>|
 | Web Application Firewall         | Firewall Lab|
 | Data Security     | Data Security Lab|
 
@@ -55,7 +55,7 @@ My passion for technology, combined with a desire to contribute to a safer digit
 
 ## Projects
 - <a href="https://github.com/SunnyJose/Network-Security-Test/tree/main">Network Security Lab</a>
-- Web Application Firewall
+- <a href="https://github.com/SunnyJose/Deployment-of-Microsoft-Defender-for-Endpoint-Lab/tree/main">Microsoft Defender Endpoint Lab</a>
 
 <!--
 **SunnyJose/SunnyJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
