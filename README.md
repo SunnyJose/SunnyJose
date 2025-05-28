@@ -1,7 +1,9 @@
 # Hello, My name is Sunny Omotoye
 <a href="https://www.linkedin.com/in/sunny-omotoye-01965818a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Experienced and detailed-oriented cybersecurity professional with a Master's degree in Cybersecurity; a problem-solving enthusiast, data analytic, network security, Linux, automating tasks with Python, Microsoft 365 Defender, and Azure AI.
+Detail-oriented professional with a master’s degree in Cybersecurity and years of experience in analyzing large data sets to solve complex problems. Excellent knowledge of log analysis, Vulnerability Management, Risk Assessment, digital forensics, and incident response, with advanced skills in SQL, Python, and working cross-functionally. Proficient at interpreting trends and providing actionable insights to identify and mitigate security threats. Experienced in leveraging SIEM tools, conducting in-depth investigations, and improving detection and response processes.
+![image](https://github.com/user-attachments/assets/79ca5dfb-791d-4a23-aa05-9f8df86ff217)
+
 
 ## Motivation
 
@@ -50,6 +52,7 @@ My passion for technology, combined with a desire to contribute to a safer digit
 <div>
 <img src="https://img.shields.io/badge/-CySA%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-SC--200-0089D6?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft%20Azure%20AI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
 
