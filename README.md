@@ -2,8 +2,6 @@
 <a href="https://www.linkedin.com/in/sunny-omotoye-01965818a/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Detail-oriented professional with a master’s degree in Cybersecurity and years of experience in analyzing large data sets to solve complex problems. Excellent knowledge of log analysis, Vulnerability Management, Risk Assessment, digital forensics, and incident response, with advanced skills in SQL, Python, and working cross-functionally. Proficient at interpreting trends and providing actionable insights to identify and mitigate security threats. Experienced in leveraging SIEM tools, conducting in-depth investigations, and improving detection and response processes.
-![image](https://github.com/user-attachments/assets/79ca5dfb-791d-4a23-aa05-9f8df86ff217)
-
 
 ## Motivation
 
