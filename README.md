@@ -48,6 +48,7 @@ My passion for technology, combined with a desire to contribute to a safer digit
 
 ## Certifications
 <div>
+<img src="https://img.shields.io/badge/-CySA%2B-003366?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Microsoft%20Azure%20AI-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </div>
