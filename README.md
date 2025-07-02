@@ -27,7 +27,7 @@ My passion for technology, combined with a desire to contribute to a safer digit
    <img src="https://img.shields.io/badge/-Seaborn-16A085?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </div> 
-## **Data Science and Analytics Tools**
+## Data Science and Analytics Tools
 <div> 
    <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
    <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -35,6 +35,7 @@ My passion for technology, combined with a desire to contribute to a safer digit
    <img src="https://img.shields.io/badge/-Seaborn-16A085?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </div>  
+
 ##  Vulnerability
 <div> 
    <img src="https://img.shields.io/badge/-Nessus-00C176?style=for-the-badge&logo=tenable&logoColor=white" />
