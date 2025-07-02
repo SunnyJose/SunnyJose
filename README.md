@@ -18,13 +18,16 @@ My passion for technology, combined with a desire to contribute to a safer digit
 | Data Analytics and Machine learning Project  | <a href="https://github.com/SunnyJose/Health_Lifestyle_Data_Analysis">Data Analysis project</a>
 
 ## Tools
-
-### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-NMAP-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali%20Linux-268BEE?&style=for-the-badge&logo=kalilinux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+   <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Seaborn-16A085?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </div> 
 
 ##  Vulnerability
