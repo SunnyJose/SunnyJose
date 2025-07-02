@@ -21,11 +21,6 @@ My passion for technology, combined with a desire to contribute to a safer digit
     <img src="https://img.shields.io/badge/-NMAP-4682B4?style=for-the-badge&logo=nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali%20Linux-268BEE?&style=for-the-badge&logo=kalilinux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-   <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Seaborn-16A085?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </div> 
 
 ## Data Science and Analytics Tools
@@ -34,7 +29,11 @@ My passion for technology, combined with a desire to contribute to a safer digit
    <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
    <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
    <img src="https://img.shields.io/badge/-Seaborn-16A085?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+   <img src="https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+   <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/-Qlik-009845?style=for-the-badge&logo=qlik&logoColor=white" />
 </div>  
 
 ##  Vulnerability
