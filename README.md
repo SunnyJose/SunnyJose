@@ -15,7 +15,7 @@ My passion for technology, combined with a desire to contribute to a safer digit
 | Microsoft Defender for Endpoint|<a href="https://github.com/SunnyJose/Deployment-of-Microsoft-Defender-for-Endpoint-Lab/tree/main">Microsoft Defender Endpoint Lab</a>|
 | Web Application Firewall         | Firewall Lab|
 | Data Security     | Data Security Lab|
-
+| Data Analytics and Machine learning Project  | <a href="https://github.com/SunnyJose/Data-Analytics-Machine-Learning/tree/main">Data Modeling project</a>
 
 ## Tools
 
