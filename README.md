@@ -13,7 +13,7 @@ My passion for technology, combined with a desire to contribute to a safer digit
 |-----------------------------------------------|----------------------------|
 | Network Security and Vulnerability Analysis   | <a href="https://github.com/SunnyJose/Network-Security-Test/tree/main">Network Security Lab</a>|
 | Microsoft Defender for Endpoint|<a href="https://github.com/SunnyJose/Deployment-of-Microsoft-Defender-for-Endpoint-Lab/tree/main">Microsoft Defender Endpoint Lab</a>|
-| Data Analytics and Machine learning Project  | <a href="https://github.com/SunnyJose/Data_Analytics-Data_Modeling">Data Modeling project</a>
+| Data Analytics and Machine learning Project  | <a href="https://github.com/SunnyJose/Health_Lifestyle_Data_Analysis">Data Modeling project</a>
 
 ## Cybersecurity Tools
 <div>
@@ -66,7 +66,6 @@ My passion for technology, combined with a desire to contribute to a safer digit
 ## Projects
 - <a href="https://github.com/SunnyJose/Network-Security-Test/tree/main">Network Security Lab</a>
 - <a href="https://github.com/SunnyJose/Deployment-of-Microsoft-Defender-for-Endpoint-Lab/tree/main">Microsoft Defender Endpoint Lab</a>
--- <a href="https://github.com/SunnyJose/Data_Analytics-Data_Modeling">Data Modeling project</a>
 <!--
 **SunnyJose/SunnyJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
