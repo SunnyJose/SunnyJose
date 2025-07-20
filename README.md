@@ -66,6 +66,7 @@ My passion for technology, combined with a desire to contribute to a safer digit
 ## Projects
 - <a href="https://github.com/SunnyJose/Network-Security-Test/tree/main">Network Security Lab</a>
 - <a href="https://github.com/SunnyJose/Deployment-of-Microsoft-Defender-for-Endpoint-Lab/tree/main">Microsoft Defender Endpoint Lab</a>
+- <a href="https://github.com/SunnyJose/Health_Lifestyle_Data_Analysis/tree/main">Data Modeling Lab</a>
 <!--
 **SunnyJose/SunnyJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
