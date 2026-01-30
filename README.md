@@ -15,6 +15,7 @@ My passion for technology, combined with a desire to contribute to a safer digit
 | Microsoft Defender for Endpoint|<a href="https://github.com/SunnyJose/Deployment-of-Microsoft-Defender-for-Endpoint-Lab/tree/main">Microsoft Defender Endpoint Lab</a>|
 | Data Analytics and Machine learning Project  | <a href="https://github.com/SunnyJose/Health_Lifestyle_Data_Analysis">Data Modeling project</a>
 | Predictive Machine Learning Model | <a href="https://github.com/SunnyJose/Breast-Cancer-ML-Model-Naive-Bayes-Approach-">Predictive ML Model</a>
+| ETL Data Pipeline Project | <a href="https://github.com/SunnyJose/Stock-Market-ETL-Data-Pipeline">ETL Data Pipeline</a>
 
 ## Tools
 ## Data Science and Analytics
@@ -72,6 +73,7 @@ My passion for technology, combined with a desire to contribute to a safer digit
 - <a href="https://github.com/SunnyJose/Deployment-of-Microsoft-Defender-for-Endpoint-Lab/tree/main">Microsoft Defender Endpoint Lab</a>
 - <a href="https://github.com/SunnyJose/Health_Lifestyle_Data_Analysis/tree/main">Data Modeling Lab</a>
 - <a href="https://github.com/SunnyJose/Breast-Cancer-ML-Model-Naive-Bayes-Approach-">Predictive ML Model</a>
+- <a href="https://github.com/SunnyJose/Stock-Market-ETL-Data-Pipeline">ETL Data Pipeline</a>
 <!--
 **SunnyJose/SunnyJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
